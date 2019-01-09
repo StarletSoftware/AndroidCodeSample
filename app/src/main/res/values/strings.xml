@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidCodeSample</string>
+    <string name="hint_city_name">City name</string>
+    <string name="main_show">Show</string>
+    <string name="hint_city">City</string>
+    <string name="hint_current_temp">Current temp</string>
+    <string name="hint_max_temp">Max temp</string>
+    <string name="hint_min_temp">Min temp</string>
+    <string name="hint_desc">Description</string>
+</resources>
